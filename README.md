@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/shreyzeous21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyzeous21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20368445/shrey-sadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20368445/shrey-sadhukha" height="30" width="40" /></a>
 <a href="https://instagram.com/shrey_sadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey_sadhukha" height="30" width="40" /></a>
 </p>
 
