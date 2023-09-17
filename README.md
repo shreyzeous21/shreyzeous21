@@ -14,8 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shreyzeous21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyzeous21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrey-sadhukhan-a96590201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey-sadhukhan-a96590201" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20368445/shrey-sadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20368445/shrey-sadhukha" height="30" width="40" /></a>
 <a href="https://instagram.com/shrey_sadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey_sadhukha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shreysadhukha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreysadhukha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shrey_sadhukhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrey_sadhukhan1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreysadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreysadhukha" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shrey_sadhukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrey_sadhukha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
