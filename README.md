@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://instagram.com/shrey_sadhukha" target="blank"><img src="https://img.shields.io/twitter/follow/shrey?logo=twitter&style=for-the-badge" alt="shrey"  </p>
 
-- 🔭 I’m currently working on **Ascorp Technology**
+- 🔭 I’m currently working on **SECRET 😒**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Next , MEARN**
+- 💬 Ask me about **Next , M-EARN**
 
 - 📫 How to reach me **shrey.sadhukhan21@gmail.com**
 
