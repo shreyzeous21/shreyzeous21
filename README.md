@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="shrey" /> </p>
 
-<p align="left"> <a href="https://instagram.com/shrey_sadhukha" target="blank"><img src="https://img.shields.io/twitter/follow/shrey?logo=twitter&style=for-the-badge" alt="shrey"  </p>
+<p align="left"> <a href="https://in.linkedin.com/in/shrey-sadhukhan" target="blank"><img src="https://img.shields.io/twitter/follow/shrey?logo=twitter&style=for-the-badge" alt="shrey"  </p>
 
 - 🔭 I’m currently working on **SECRET 😒**
 
